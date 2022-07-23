@@ -1,13 +1,9 @@
-## Olá! Eu sou o Lucas Rosa 👋
-
-- 🔭 Atualmente estou estagiando em desenvolvimento com linguagem Abap, Java.
-- 🌱 Estudando JavaScript, NodeJs...
-- 📫 Contate-me: lucasrof7@gmail.com
+## Olá! Eu sou o Lucas Rosa, atualmente estágiario de desenvolvimento em linguagem ABAP e JAVA. 👋
 
 <div align="center">
   <a href="https://github.com/Lucasrof">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Lucasrof&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasrof&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lucasrof&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasrof&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
