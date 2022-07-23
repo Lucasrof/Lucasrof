@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas Rosa, trainee de desenvolvimento em linguagem ABAP e JAVA. 👋
+## Olá! Eu sou o Lucas Rosa, trainee de desenvolvimento em linguagem ABAP. 👋
 - 🌱 Estudando JavaScript, NodeJs, com foco em aplicações WEB.
 - 📫 Contate-me: lucasrof7@gmail.com
 <div align="center">
