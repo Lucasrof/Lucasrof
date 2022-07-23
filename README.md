@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Lucas Rosa! 👋
-- 🌱 Estudando JavaScript, NodeJs, com foco em aplicações WEB.
+- 🌱 Estudando JavaScript, NodeJs.
 - 📫 Contate-me: lucasrof7@gmail.com
 <div align="center">
   <a href="https://github.com/Lucasrof">
