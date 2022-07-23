@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas Rosa, atualmente estágiario de desenvolvimento em linguagem ABAP e JAVA. 👋
+## Olá! Eu sou o Lucas Rosa, trainee de desenvolvimento em linguagem ABAP e JAVA. 👋
 
 <div align="center">
   <a href="https://github.com/Lucasrof">
