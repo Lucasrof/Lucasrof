@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Lucas Rosa! 👋
--  📚 Estudando JavaScript, NodeJs, React.
+-  📚 Estudando JavaScript, NodeJs, React, MySQL.
 <div align="center">
   <a href="https://github.com/Lucasrof">
   <img height="130em"  src="https://github-readme-stats.vercel.app/api?username=Lucasrof&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
