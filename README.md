@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estou trabalhando atualmente em um projeto pessoal.<br>🤝 Estou em busca de conhecimento e aprimoramento pessoal.<br>🌱 Estou aprendendo atualmente Python, Java, PowerBI, Análise de Dados, IA.<br>
+🔭 Estou trabalhando atualmente em um projeto pessoal.<br>🤝 Estou em busca de conhecimento e aprimoramento pessoal.<br>🌱 Estou aprendendo atualmente Python, C#, IA.<br>
 
 
 ## 🌐 Socials:
