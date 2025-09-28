@@ -1,18 +1,54 @@
-# 💫 About Me:
-🔭 I’m currently working on Manual and Automatization Testing<br>🌱 I’m currently learning Python, Pytest, Playwright, Selenium<br>⚡ Fun fact  i love Harry Potter
+# Lucas - Analista de Qualidade de Software & Desenvolvedor Backend
 
+Olá, eu sou o **Lucas**! 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lucasrosaf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucasrof7@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lucasrof&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Lucasrof&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasrof&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Sou apaixonado por qualidade e desenvolvimento de software, com foco em elaboração, documentação e desenvolvimento de processos que visem a melhoria da qualidade de software e produto, além disso, implementar scripts de testes que garantam a velocidade e confiabilidade de correções e implementações realizadas pela equipe de desenvolvimento. Minha missão é entregar processos visando qualidade, redução de tempo e custos, além de gerar impacto através da evolução tecnológica.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Lucasrof&icon=6&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📝 Sobre Mim
+
+- 🎯 **Analista de Qualidade** e **Desenvolvedor backend** com experiência em múltiplas frentes da área de qualidade e desenvolvimento de software.
+- 🧩 Estruturação de processos de testes (**exploratórios**, **regressivos** e **E2E**).
+- 📚 Fortes conhecimentos em **elaboração**, **documentação**, **gestão de testes** e **desenvolvimento de testes**.
+- 🐞 Foco na **colaboração** com equipes de **desenvolvimento**, **suporte** e **product owners**, visando sempre a melhor experiência do usuário.
+- 🧪 Conhecimento em testes **manuais**, **automatizados** e **exploratórios**.
+- 🧰 **Ferramentas técnicas**: Playwright, Cypress, SQL Server, PostgreSQL, SQL Anywhere.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Bancos de Dados**: SQL Server, PostgreSQL, SQL Anywhere (validação de estruturas de dados, triggers e procedures).
+- **Testes Manuais**: Elaboração de casos de testes, documentação e validação de implementações e correções de software.
+- **Automação de Testes**: Desenvolvimento de scripts com **Python**, **Pytest** e **Playwright**.
+- **Desenvolvimento de Software**: Desenvolvimento de soluções tecnológicas com **Python**, **Javascript** e **C#**.
+
+---
+
+## 📚 Meus Artigos Técnicos e Iniciativas de Qualidade
+
+Abaixo estão alguns artigos e projetos que produzi com base nas minhas experiências utilizando processos de qualidade e desenvolvimento de software:
+
+- 🔗 **[Testes de Caixa Branca x Testes de Caixa Preta](https://web.dio.me/articles/sobre-testes-de-software-um-breve-resumo-sobre-os-testes-de-caixa-branca-e-caixa-preta-a522a664e524)**  
+  Artigo explicando as diferenças entre testes de caixa preta e caixa branca, suas vantagens, desvantagens e como se complementam.
+  
+- 🔗 **[Automatização de testes utilizando playwright para site e-commerce](https://github.com/Lucasrof/swaglabs_e2e_tests)**  
+  Como utilizei o framework playwrigh, juntamente com python e pytest, para elaboração e automatização de testes na plataforma swaglabs.
+
+---
+
+## 🌐 Me Acompanhe por Aí
+
+- 💼 **LinkedIn**: [Lucas Rosa](https://www.linkedin.com/in/lucasrosaf)
+
+---
+
+## 🤝 Vamos Conversar?
+
+Vamos bater um papo sobre **qualidade**, **automação**, **testes manuais** ou **oportunidades** para área de **Qualidade e Desenvolvimento de Software**?  
+📩 Me chama no [LinkedIn](https://www.linkedin.com/in/lucasrosaf)!
+
+---
+
+💙 **“A qualidade nunca se obtém por acaso; ela é sempre o resultado do esforço inteligente.” - John Ruskin**
