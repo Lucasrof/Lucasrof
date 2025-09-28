@@ -8,7 +8,7 @@ Sou apaixonado por qualidade e desenvolvimento de software, com foco em elabora�
 
 - 🎯 **Analista de Qualidade** e **Desenvolvedor backend** com experiência em múltiplas frentes da área de qualidade e desenvolvimento de software.
 - 🧩 Estruturação de processos de testes (**exploratórios**, **regressivos** e **E2E**).
-- 📚 Fortes conhecimentos em **elaboração**, **documentação**, **gestão de testes** e **desenvolvimento de testes**.
+- 📚 Fortes conhecimentos em **elaboração**, **documentação**, **gestão** e **desenvolvimento de testes**.
 - 🐞 Foco na **colaboração** com equipes de **desenvolvimento**, **suporte** e **product owners**, visando sempre a melhor experiência do usuário.
 - 🧪 Conhecimento em testes **manuais**, **automatizados** e **exploratórios**.
 - 🧰 **Ferramentas técnicas**: Playwright, Cypress, SQL Server, PostgreSQL, SQL Anywhere.
