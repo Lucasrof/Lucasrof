@@ -11,7 +11,6 @@ Sou apaixonado por qualidade e desenvolvimento de software, com foco em elabora�
 - 📚 Fortes conhecimentos em **elaboração**, **documentação**, **gestão** e **desenvolvimento de testes**.
 - 🐞 Foco na **colaboração** com equipes de **desenvolvimento**, **suporte** e **product owners**, visando sempre a melhor experiência do usuário.
 - 🧪 Conhecimento em testes **manuais**, **automatizados** e **exploratórios**.
-- 🧰 **Ferramentas técnicas**: Playwright, Cypress, SQL Server, PostgreSQL, SQL Anywhere.
 
 ---
 
