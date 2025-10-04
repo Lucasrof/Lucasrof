@@ -30,23 +30,20 @@ Abaixo estão alguns artigos e projetos que produzi com base nas minhas experiê
 
 - 🔗 **[Testes de Caixa Branca x Testes de Caixa Preta](https://web.dio.me/articles/sobre-testes-de-software-um-breve-resumo-sobre-os-testes-de-caixa-branca-e-caixa-preta-a522a664e524)**  
   Artigo explicando as diferenças entre testes de caixa preta e caixa branca, suas vantagens, desvantagens e como se complementam.
-  
+
+- 🔗 **[Pirâmide de Testes: Seus conceitos, aplicações e benefícios.](https://github.com/Lucasrof/Piramide_de_Testes_Guia_Para_QA.git)**  
+  Um breve e singelo artigo explicando um pouco sobre a Pirâmide de Testes, suas aplicações e benefícios para o cenário atual de qualidade e desenvolvimento de software.
+
 - 🔗 **[Automatização de testes utilizando playwright para site e-commerce](https://github.com/Lucasrof/swaglabs_e2e_tests)**  
   Como utilizei o framework playwrigh, juntamente com python e pytest, para elaboração e automatização de testes na plataforma swaglabs.
-
----
-
-## 🌐 Me Acompanhe por Aí
-
-- 💼 **LinkedIn**: [Lucas Rosa](https://www.linkedin.com/in/lucasrosaf)
 
 ---
 
 ## 🤝 Vamos Conversar?
 
 Vamos bater um papo sobre **qualidade**, **automação**, **testes manuais** ou **oportunidades** para área de **Qualidade e Desenvolvimento de Software**?  
-📩 Me chama no [LinkedIn](https://www.linkedin.com/in/lucasrosaf)!
+- 📩 Me chama no [LinkedIn](https://www.linkedin.com/in/lucasrosaf)!
 
 ---
 
-💙 **“A qualidade nunca se obtém por acaso; ela é sempre o resultado do esforço inteligente.” - John Ruskin**
+**“A qualidade nunca se obtém por acaso; ela é sempre o resultado do esforço inteligente.” - John Ruskin**
