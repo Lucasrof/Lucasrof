@@ -1,6 +1,6 @@
 # Olá!! Eu sou o Lucas - Analista de Qualidade de Software & Desenvolvedor Backend
 
-Sou apaixonado por qualidade e desenvolvimento de software, com foco em elaboração, documentação e desenvolvimento de processos que visem a melhoria da qualidade de software, além disso, implementar rotinas e scripts de testes que garantam a velocidade e confiabilidade de correções e implementações realizadas pela equipe de desenvolvimento. Minha missão é entregar processos visando qualidade, redução de tempo e custos, além de gerar impacto através da evolução tecnológica.
+Sou aficionado por qualidade e desenvolvimento de software, com foco em elaboração, documentação e desenvolvimento de processos que visem a melhoria da qualidade de software, além disso, implementar rotinas e scripts de testes que garantam a velocidade e confiabilidade de correções e implementações realizadas pela equipe de desenvolvimento. Minha missão é entregar processos visando qualidade, redução de tempo e custos, além de gerar impacto através da evolução tecnológica.
 
 ---
 
